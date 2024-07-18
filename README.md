@@ -18,8 +18,8 @@
 
 ### Connect with Me :
 
-<a href="http://www.linkedin.com/in/mariamsamir7" target="_blank"><img src="https://img.shields.io/badge/Lamiaa%20Selim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://khamsat.com/user/lamiaa_selim/reviews" target="_blank">
+<a href="http://www.linkedin.com/in/mariamsamir7" target="_blank"><img src="https://img.shields.io/badge/mariam%20samir7-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://khamsat.com/user/mariamsamir7/reviews" target="_blank">
   <img src="https://khamsat.hsoubcdn.com/assets/images/logo-73045c76e830509d4dbe03ea6172d22f047c708fed5435e93ffd47f80ee5ffa4.png" style="width:110px; height:25px"/>
 </a>
 
