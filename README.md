@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/yourportfolio" target="_blank">
+<!--   <a href="https://github.com/yourusername/yourportfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Google&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="http://www.linkedin.com/in/mariamsamir7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
